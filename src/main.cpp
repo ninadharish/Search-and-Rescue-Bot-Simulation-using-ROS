@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- * @author Ninad Harishchandrakar (ninadh@umd.edu), Prasanna Raghavan (pthiruku@umd.edu), Sai Sandeep Adapa (sadapa@umd.edu)
+ * @author Ninad Harishchandrakar (ninadh@umd.edu)
  * @brief Node to run final_project
  * @version 0.1
  * @date 2021-12-15
