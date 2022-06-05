@@ -81,7 +81,7 @@ rosrun final_project final_project_node
 👤 **Ninad Harishchandrakar**
 
 * [GitHub](https://github.com/ninadharish)
-* [Email](ninad.harish@gmail.com)
+* [Email](mailto:ninad.harish@gmail.com)
 * [LinkedIn](https://linkedin.com/in/ninadharish)
 
 
@@ -89,5 +89,5 @@ rosrun final_project final_project_node
 
 👤 **Zeid Kootbally**
 
-* [Email](zeidk@umd.edu)
+* [Email](mailto:zeidk@umd.edu)
 * [GitHub](https://github.com/zeidk)
